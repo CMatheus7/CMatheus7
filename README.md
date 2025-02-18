@@ -1,6 +1,6 @@
 # Cristian Mateus
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo  Cristian Mateus, tenho 26 anos e sou natural de Itapipica-Ce. 
 
