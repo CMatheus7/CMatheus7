@@ -30,7 +30,7 @@ Gosto de transformar ideias em interfaces interativas, buscando sempre performan
 ---
 
 ## 🚀 Projetos em Destaque
-- [**Portfólio Pessoal**]([https://seu-link-aqui.com](https://meu-portifolio-v1-blonf0y0q-cristian-mateus-projects.vercel.app/)) — Meu portfólio com projetos e informações de contato.
+- [**Portfólio Pessoal**]([https://meu-portifolio-v1-blonf0y0q-cristian-mateus-projects.vercel.app/)) — Meu portfólio com projetos e informações de contato.
 - [**Sistema de Gestão de Tarefas**](https://github.com/CMatheus7/seu-projeto) — Aplicação web para criar e organizar tarefas.
 - [**Landing Page Responsiva**](https://github.com/CMatheus7/landing-page) — Página moderna adaptada para todos os dispositivos.
 
