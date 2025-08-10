@@ -1,12 +1,17 @@
-<!-- Banner animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=1000&lines=Olá,+sou+Cristian+Matheus!;Desenvolvedor+Front-end;Apaixonado+por+tecnologia+e+inovação!)](https://git.io/typing-svg)
+<!-- Banner Gráfico -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=200&section=header&text=Cristian%20Matheus&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Cristian Matheus"/>
+</p>
 
 ---
 
-## 💻 Desenvolvedor Front-end
-- 💻 Desenvolvedor **Front-End** apaixonado por criar interfaces modernas e responsivas.  
-- 🚀 Buscando transformar ideias em soluções funcionais e atraentes.  
-- 📚 Atualmente aprendendo e me aprofundando em **React** e **TypeScript**.  
+## 👨‍💻 Sobre mim
+Sou **Desenvolvedor Front-End** apaixonado por criar experiências digitais modernas e funcionais.  
+Gosto de transformar ideias em interfaces interativas, buscando sempre performance, acessibilidade e design atraente.  
+
+📌 **Atualmente estudando:** React, TypeScript e boas práticas de desenvolvimento  
+🎯 **Objetivo:** Atuar em projetos que impactem positivamente a vida das pessoas  
+💡 **Curiosidade:** Sou movido a desafios e adoro aprender coisas novas
 
 ---
 
@@ -24,6 +29,13 @@
 
 ---
 
+## 🚀 Projetos em Destaque
+- [**Portfólio Pessoal**](https://seu-link-aqui.com) — Meu portfólio com projetos e informações de contato.
+- [**Sistema de Gestão de Tarefas**](https://github.com/CMatheus7/seu-projeto) — Aplicação web para criar e organizar tarefas.
+- [**Landing Page Responsiva**](https://github.com/CMatheus7/landing-page) — Página moderna adaptada para todos os dispositivos.
+
+---
+
 ## 📊 Estatísticas no GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMatheus7&show_icons=true&theme=radical" />
@@ -32,14 +44,13 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-- [Meu Portfólio](https://seu-link-aqui.com) — Meu portfólio online com projetos e contato.
-- [Sistema de Gestão de Tarefas](https://github.com/CMatheus7/seu-projeto) — Aplicação web para organização de tarefas.
-- [Landing Page Responsiva](https://github.com/CMatheus7/landing-page) — Site moderno e adaptável a qualquer tela.
+## 📈 Contribuições Recentes
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CMatheus7&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="Gráfico de Contribuições"/>
+</p>
 
 ---
 
-## 📈 Atividade Recente
-![GitHub streak stats](https://streak-stats.demolab.com/?user=CMatheus7&theme=radical)
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=100&section=footer"/>
+</p>
