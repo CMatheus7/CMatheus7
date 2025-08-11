@@ -29,8 +29,8 @@ Gosto de transformar ideias em interfaces interativas, buscando sempre performan
 
 ---
 
-## 🚀 Projetos em Destaque[
-- [**Portfólio Pessoal**](https://site-produtividade-ox962qa4i-cristian-mateus-projects.vercel.app/](https://meu-portifolio-v1.vercel.app/)) — Meu portfólio com projetos e informações de contato.
+## 🚀 Projetos em Destaque
+- [**Portfólio Pessoal**](https://meu-portifolio-v1.vercel.app/) — Meu portfólio com projetos e informações de contato.
 - [**Sistema de Gestão de Tarefas**](https://site-produtividade-ox962qa4i-cristian-mateus-projects.vercel.app/) — Aplicação web para criar e organizar tarefas.
 - [**Landing Page Responsiva**](https://site-produtividade-ox962qa4i-cristian-mateus-projects.vercel.app/) — Página moderna adaptada para todos os dispositivos.
 
