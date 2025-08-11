@@ -1,6 +1,6 @@
 <!-- Banner Gráfico -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=08005C&height=200&section=header&text=Cristian%20Matheus&fontSize=40&fontColor=#fffff&animation=fadeIn&fontAlignY=35" alt="Cristian Matheus"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=08005C&height=200&section=header&text=Cristian%20Matheus&fontSize=40&fontColor=#ffff&animation=fadeIn&fontAlignY=35" alt="Cristian Matheus"/>
 </p>
 
 ---
