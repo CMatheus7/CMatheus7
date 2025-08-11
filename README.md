@@ -17,8 +17,6 @@ Gosto de transformar ideias em interfaces interativas, buscando sempre performan
 
 ## 🌐 Contato & Redes
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianmatheus7)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
 
 ---
 
