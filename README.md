@@ -22,7 +22,7 @@ Gosto de transformar ideias em interfaces interativas, buscando sempre performan
 
 ## 🛠 Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git" />
 </p>
 
 ---
